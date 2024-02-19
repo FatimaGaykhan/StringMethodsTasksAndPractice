@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/bin/Debug/net6.0/StringMethods
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/bin/Debug/net6.0/StringMethods.deps.json
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/bin/Debug/net6.0/StringMethods.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/bin/Debug/net6.0/StringMethods.dll
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/bin/Debug/net6.0/StringMethods.pdb
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/obj/Debug/net6.0/StringMethods.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/obj/Debug/net6.0/StringMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/obj/Debug/net6.0/StringMethods.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/obj/Debug/net6.0/StringMethods.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/obj/Debug/net6.0/StringMethods.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/obj/Debug/net6.0/StringMethods.dll
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/obj/Debug/net6.0/refint/StringMethods.dll
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/obj/Debug/net6.0/StringMethods.pdb
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/obj/Debug/net6.0/StringMethods.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/StringMethods/StringMethods/obj/Debug/net6.0/ref/StringMethods.dll

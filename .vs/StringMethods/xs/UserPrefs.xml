@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BE5D3D35-C95F-4C9E-A0B6-B786348EB57D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringMethods/Program.cs">
+    <Files>
+      <File FileName="StringMethods/Program.cs" Line="129" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringMethods" expanded="True">
+            <Node name="StringMethods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.StringMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
